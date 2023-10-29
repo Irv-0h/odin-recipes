@@ -10,8 +10,8 @@ The Aim of the project is to:
 
 Skills and tools used:
     - Use of Boilerplate 
-    - Use of <p> and <h1>, <h2> etc respectively.
-    - Use of <strong> and <em>
-    -Use <ul> and <ol> for respective <li> generation.
-    - Use of <a> and <img> for link and image usage.
-        -Use subsequent attributes and tags: <alt>, <href>, <height>,<weight>.  
+    - Use of headings and paragraphs.
+    - Use of bold and italics.
+    -Use unordered- and ordered lists.
+    - Use of anchors and links.
+        -Use subsequent attributes.  
